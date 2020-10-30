@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "d:\\Proyectos\\covidTracker\\Scripts\\python.exe",
+    "python.formatting.provider": "black"
+}
